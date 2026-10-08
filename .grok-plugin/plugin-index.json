@@ -946,8 +946,8 @@
       }
     },
     "skyvern": {
-      "sha": "3551c3b1b25b7b96148fdfcecbba920a86219539",
-      "version": "0.1.0",
+      "sha": "6fae60f5476857b8e3796bd253854809851ebc3b",
+      "version": "0.1.1",
       "components": {
         "mcpServers": [
           {
